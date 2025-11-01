@@ -54,7 +54,8 @@ width : 100%;
 }
 .left, .middle-top, .middle-bottom, .right {
     border: 1px solid rgba(128, 128, 128, 0.3);
-    height: 200px;
+    /* height: 200px; */
+    height: 400px;
     flex: 1;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
